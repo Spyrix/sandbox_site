@@ -19,5 +19,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('cs_review.urls')),#The homepage of the site
+    path('', include('demos.urls')),#The homepage of the site
 ]
