@@ -1,6 +1,6 @@
 asn1crypto==0.24.0
 cryptography==2.1.4
-Django==1.11.22
+Django==1.11.29
 django-crispy-forms==1.7.2
 enum34==1.1.6
 gyp==0.1
